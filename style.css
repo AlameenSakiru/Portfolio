@@ -28,6 +28,10 @@ body {
     color: var(--text-color);
 }
 
+section {
+    padding:50px;
+}
+
 
 
 .header {
